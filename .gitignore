@@ -210,3 +210,5 @@ __marimo__/
 .idea/
 data/raw/
 api.txt
+input/
+output/
